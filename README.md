@@ -1,6 +1,18 @@
-# Awesome Claude Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-claude-skills
 
-A curated list of Claude Code skills, plugins, marketplaces and the docs that actually matter, for people building agent workflows instead of collecting bookmarks.
+**A curated, link checked list of Claude Code skills, plugins and docs worth your time.**
+
+<p align="center">
+  <img src="assets/demo.gif" alt="awesome-claude-skills demo" width="780">
+</p>
+
+## Start here
+
+- [Official docs](#official-docs) - the canonical references, before any blog post
+- [Skill collections](#skill-collections) - packs you can install in one command
+- [Writing your own skill](#writing-your-own-skill) - the whole format in one file
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Why this exists
 

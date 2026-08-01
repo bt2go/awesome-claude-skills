@@ -1,0 +1,20 @@
+{
+  "title": "awesome-claude-skills",
+  "cols": 78,
+  "prompt": "? ",
+  "prompt_color": "y",
+  "blocks": [
+    {
+      "cmd": "what skills are actually worth installing",
+      "out": "<c>claude-skills</c>  <d>12 small skills, one plugin install</d>\n<c>commit-sage</c>    <d>conventional commits from the staged diff</d>\n<d>every entry on the list is confirmed to exist, no dead links</d>"
+    },
+    {
+      "cmd": "where do skills live",
+      "out": "<c>.claude/skills/</c>    <d>this project only</d>\n<c>~/.claude/skills/</c>  <d>every project you open</d>\n<d>plugins drop theirs in for you, no copying required</d>"
+    },
+    {
+      "cmd": "how do I write one",
+      "out": "<c>SKILL.md</c>  <d>one folder, one file, yaml name plus description</d>\n<d>the description decides whether Claude ever loads it</d>\n<d>start it with \"Use when\", then a numbered procedure</d>"
+    }
+  ]
+}
