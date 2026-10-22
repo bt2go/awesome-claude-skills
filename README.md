@@ -43,6 +43,7 @@ Skills are a small format with a large surface: a folder, a `SKILL.md`, a descri
 ## Skill collections
 
 - [claude-skills](https://github.com/botaoishere/claude-skills) - 12 small skills for commits, reviews, tests, docs and audits, installable as one plugin
+- [done-is-a-claim](https://github.com/Grit-77/done-is-a-claim) - coding-agent skills and local tools for capturing and rechecking command evidence
 - Curated multi skill packs from the community - PRs welcome, link only packs you have installed and run
 
 ## Single purpose skills
